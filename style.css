@@ -1,0 +1,29 @@
+table{
+	margin-top: 50px;
+	text-align: center;
+	background: #b3a7cf;
+	color: black;
+}
+
+#show th, #show td{
+	padding: 13px;
+	width: 200px;
+	border: solid black 2px;
+	border-radius: 2px;
+}
+
+#btna td input{
+	width: 100%;
+}
+.tabb{
+	border: solid black 3px;
+}
+#tab th, #tab td, #tab tr{
+    border: solid black 2px;
+}
+p{
+    font-size: 35px;
+    font-family: 'Courier New', Courier;
+	text-align: center;
+	font-weight: bolder;
+}
